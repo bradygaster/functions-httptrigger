@@ -19,6 +19,12 @@
         "ghcr.io/devcontainers/features/github-cli:1": {
             "version": "2"
         },
+        "ghcr.io/jlaundry/devcontainer-features/azure-functions-core-tools:1": {
+            "version": "1.0.0"
+        },
+        "ghcr.io/rchaganti/vsc-devcontainer-features/azurebicep:1": {
+            "version": "1.0.5"
+        },
         "ghcr.io/devcontainers/features/node:1": {
             "version": "16",
             "nodeGypDependencies": false
